@@ -1,2 +1,5 @@
-# project1
-1
+# Dar Borai Umarov Abubakr Dar Academy SoftClub
+#### MAn dar SoftClub mehonam va dar kurshoi:C++ va HTML. Hondam va dar zamoni hozira dar kursi GitHub honda istodam.
+|C++|HTML|GitHub|
+|---|---|---|
+|Dar kursi C++ shumo bisortar logica boad saht bosha ki i kursa tamom kuned dar in kurs dar 1 hafta shumo examini haftaina messupored bali hub dar examin 80 bal ki boad bgiri ki az in hafta boad bgzari agar nagzashti haftai digar shumoro mualim ba dar shoi ilovagi davat mekunad baroi soztar examhoi digar biguzared.|Dar kursi HTML shumo bisortar dar borai oroish dodani vebsayt meguzared shumo bamonadi cursi C++ sumo examini haftaina mesporen likin dar in kurs shumo dar examin shumo misolhoi C++ mioand ki C++ faromush nakuned va savolu gavob va praekt meshavad ki baroi proect 24soat medihan ton ki agar uspet nakni dar har 1 dakikai der kadagi 5 bal minus mecnan dar in kurs shumo bisortar baroi sohton va oroish dodani vebsait meguzrd.| Dar in kurs boshad shumo boz HTML mehoned inkur baroi kori shumoro osonkardan meguzared dar in kursboshad exam 1 proekt meshavaki shumo boad ki dar 2 soat buts kuned.
